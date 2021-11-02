@@ -7,8 +7,8 @@ npm i @raoni/cooldates-cli
 
 ### usage
 
-cooldates Country Year
+cooldates-cli Country Year
 
-example : cooldates Belgium 2021
+example : cooldates-cli Belgium 2021
 
 
