@@ -15,8 +15,8 @@
   "bugs": {
     "url": "https://github.com/GRaonix/cooldates-CLI/issues"
   },
-  "homepage": "https://github.com/GRaonix/cooldates-CLI#readme"
-    "dependencies": {
+  "homepage": "https://github.com/GRaonix/cooldates-CLI#readme",
+   "dependencies": {
     "align-text": "^1.0.2",
     "axios": "^0.21.1",
     "center-align": "^1.0.1",
