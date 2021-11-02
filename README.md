@@ -3,9 +3,9 @@ Cool dates is a simpple program to return holidays on a given dante in a given c
 
 ## installation
 
-npm i @raoni/cooldates
+npm i @raoni/cooldates-cli
 
-##usage
+### usage
 
 cooldates Country Year
 
