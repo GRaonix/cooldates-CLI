@@ -1,0 +1,19 @@
+{
+  "name": "@raoni/cooldates-cli",
+  "version": "1.0.0",
+  "description": "Give holidays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GRaonix/cooldates-CLI.git"
+  },
+  "author": "Raoni Gillet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GRaonix/cooldates-CLI/issues"
+  },
+  "homepage": "https://github.com/GRaonix/cooldates-CLI#readme"
+}
