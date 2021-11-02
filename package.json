@@ -16,4 +16,17 @@
     "url": "https://github.com/GRaonix/cooldates-CLI/issues"
   },
   "homepage": "https://github.com/GRaonix/cooldates-CLI#readme"
+    "dependencies": {
+    "align-text": "^1.0.2",
+    "axios": "^0.21.1",
+    "center-align": "^1.0.1",
+    "chalk": "^4.1.0",
+    "country-list": "^2.2.0",
+    "figlet": "^1.5.0",
+    "justified": "^1.0.1",
+    "moment": "^2.29.1"
+  },
+  "bin": {
+    "cooldates-cli": "./index.js"
+  }
 }
